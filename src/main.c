@@ -15,6 +15,8 @@
 
 int main(void)
 {
-// just for GIT test
+// just for GIT test 111
+// just 2
+  while (1);
 	for(;;);
 }
